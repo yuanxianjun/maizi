@@ -1,0 +1,51 @@
+.row{
+	margin-top:80px;
+	
+}
+.col-md-10 .page-header{
+    margin-top:0;
+    }
+    
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+/*padding*/
+.pad0{
+	padding:0;
+}
+
+.user_search{
+	padding:10px;
+	border:1px solid #ddd;
+}
+.col-md-7{
+	background:#fff;
+}
+.progress{
+	height:15;
+}
+.wh64{
+	width:64px;
+	height:64px;
+	border-radius:50%;
+}
+.mar-t{
+	margin-top:15px;
+}
+.meida{
+	margin-top:20px;
+	background:#CCCCCC;
+}
+
+.taglist{
+	padding-top:15px;
+}
+.taglist .alert{
+	margin:0 15px 15px 0;
+}
+footer{
+	padding:20px;
+	font-weight:16px;
+	text-align:center;
+}
